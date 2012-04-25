@@ -15,3 +15,7 @@ alias pull='git pull'
 alias push='git push'
 alias sync='git pull && git push' 
 alias gs='git status'
+
+# Custom - VPS Status
+alias vps='nodemon --no-stdin ~/nate-vps-system/app.js &'
+alias guide='nodemon --no-stdin ~/snapplab-guide/app.js &'
