@@ -2,7 +2,7 @@
 # nateferrero.com
 
 # This Document
-alias n='cd ~/nate-profile && git status'
+alias n='cd ~/nate-profile && clear && git status'
 alias pr='nano ~/nate-profile/index.sh'
 alias ra='source ~/nate-profile/index.sh'
 
